@@ -1,4 +1,4 @@
-/target
-/prisma
+target
+prisma/migrations
 .env
 .DS_Store
